@@ -19,17 +19,17 @@ Console.WriteLine("[M]ultiply a number");
 
 var choice = Console.ReadLine();
 
-if (choice == "A" || choice == "a")
+if (IsCaseSensitive(choice, "A"))   
 {
     var sum = number1 + number2;
     PrintFinalEquation(number1, number2, sum,  "+");
 }
-else if (choice == "S" || choice == "s")
+else if (IsCaseSensitive(choice, "S"))
 {
     var deduction = number1 - number2;
     PrintFinalEquation(number1, number2, deduction,  "-");
 }
-else if (choice == "M" || choice == "m")
+else if (IsCaseSensitive(choice, "M"))
 {
     var multiple = number1 * number2;
     PrintFinalEquation(number1, number2, multiple,  "*");
@@ -44,6 +44,8 @@ void PrintFinalEquation(
            number1 + " " + @operator + " " + number2 + " = " + result);
 }
 
-
+bool IsCaseSensitive(string left, string right)
+{
+    return left.ToUpper() == right.ToUpper();
+}
 Console.ReadKey();
-ww
