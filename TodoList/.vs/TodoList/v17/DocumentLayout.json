@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\p3t3r\\source\\repos\\TodoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F7C5A1-FC26-4078-846E-8CEDFDA54792}|ToDoList\\ToDoList.csproj|c:\\users\\p3t3r\\source\\repos\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F7C5A1-FC26-4078-846E-8CEDFDA54792}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F7C5A1-FC26-4078-846E-8CEDFDA54792}|ToDoList\\ToDoList.csproj|c:\\users\\p3t3r\\source\\repos\\todolist\\todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5F7C5A1-FC26-4078-846E-8CEDFDA54792}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0ED82B-FA0B-489E-AFAD-D6B5304CEF1D}|Calculator\\Calculator.csproj|c:\\users\\p3t3r\\source\\repos\\todolist\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0ED82B-FA0B-489E-AFAD-D6B5304CEF1D}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0ED82B-FA0B-489E-AFAD-D6B5304CEF1D}|Calculator\\Calculator.csproj|c:\\users\\p3t3r\\source\\repos\\todolist\\calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A0ED82B-FA0B-489E-AFAD-D6B5304CEF1D}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoList.csproj",
+              "DocumentMoniker": "C:\\Users\\p3t3r\\source\\repos\\Todolist\\ToDoList\\ToDoList.csproj",
+              "RelativeDocumentMoniker": "ToDoList\\ToDoList.csproj",
+              "ToolTip": "C:\\Users\\p3t3r\\source\\repos\\Todolist\\ToDoList\\ToDoList.csproj",
+              "RelativeToolTip": "ToDoList\\ToDoList.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T21:40:54.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.csproj",
+              "DocumentMoniker": "C:\\Users\\p3t3r\\source\\repos\\Todolist\\Calculator\\Calculator.csproj",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.csproj",
+              "ToolTip": "C:\\Users\\p3t3r\\source\\repos\\Todolist\\Calculator\\Calculator.csproj",
+              "RelativeToolTip": "Calculator\\Calculator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T21:40:47.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\p3t3r\\source\\repos\\TodoList\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\p3t3r\\source\\repos\\TodoList\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:39:46.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\p3t3r\\source\\repos\\TodoList\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\p3t3r\\source\\repos\\TodoList\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:59:37.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
