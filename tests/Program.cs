@@ -1,8 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
-for (int i = 4; i < 99; i *= 1 )
+for (var i = 1; i < 99; ++i)
 {
-    Console.WriteLine("This is a foorloop");
+    Console.WriteLine("i is " + i);
+    if(i >= 44)
+    {
+        break;
+    }
+    
 }
-Console.ReadLine();
-// This is a forloop in C#
+Console.ReadKey();
